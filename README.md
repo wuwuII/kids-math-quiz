@@ -4,6 +4,8 @@
 
 **零依赖**：整个游戏就是一个 `index.html`，没有 CDN、没有字体、没有图片、没有音频，双击即用。
 
+**在线玩**：<https://wuwuii.github.io/kids-math-quiz/>
+
 ![首页](screenshots/home.png)
 
 ## 三种模式
